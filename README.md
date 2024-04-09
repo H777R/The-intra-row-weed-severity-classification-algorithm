@@ -5,3 +5,4 @@ It should be noted that the current code can only process pictures one by one, n
 There need to be exactly two vegetables in the image (it doesn't have to be lettuce, it can be anything else, and the type of weeds is also arbitrary).
 The lettuce in the image must be placed vertically and not horizontally, we have given an example photo.
 Because this project has just started, please feel free to communicate with us if you have any questions, and please contact us if there are any bugs. Thank you.
+The algorithm was developed on top of YOLOv7 and it is not certain if it will work with other versions of YOLO.
